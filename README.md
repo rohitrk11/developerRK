@@ -1,4 +1,4 @@
 # developerRK
 This is my first repository
 <br> 
-Author: Rohit
+Author: Rohit Yadav (Developer and Marketing expert)
